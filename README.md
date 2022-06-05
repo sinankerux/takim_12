@@ -21,5 +21,7 @@ Charlie'nin Çikolata Fabrikasında bir gezinitye çıkan Veruca Salt çeşitli 
 # Kullanılan Assetler
 [asset](https://oyunveuygulama.slack.com/files/U02NKTQ7ZD4/F02Q1EL8QUA/2.unitypackage)  
 # SPRINT 3
-Sprint Notları: Scrum Master'ımız yoğum olduğu için o hariç toplanıldı. Github linkimiz belirtilmediği fark edilip yeni bir Github linki açıldı unity ile eşleştirildi. Danışmana gönderilmek üzere hazır. Süreçteki tüm aşamalar Trello'ya kaydedilmiiştir.
-Daily Scrum: Daily scrum toplantılarımız Discord üzerinden gerçekleştirilmiştir.
+## Sprint Notları:
+Scrum Master'ımız yoğum olduğu için o hariç toplanıldı. Github linkimiz belirtilmediği fark edilip yeni bir Github linki açıldı unity ile eşleştirildi. Danışmana gönderilmek üzere hazır. Süreçteki tüm aşamalar Trello'ya kaydedilmiiştir.
+## Daily Scrum:
+Daily scrum toplantılarımız Discord üzerinden gerçekleştirilmiştir.
