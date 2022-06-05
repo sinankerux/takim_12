@@ -18,7 +18,7 @@ Charlie'nin Çikolata Fabrikasında bir gezinitye çıkan Veruca Salt çeşitli 
 - 2020.3.23f1
 ## Product Backlog
 [ Trello](https://trello.com/b/C7vKQKEV/unity-tak%C4%B1m-12)
-# Kullanılan Assetler
+## Kullanılan Assetler
 [Asset](https://oyunveuygulama.slack.com/files/U02NKTQ7ZD4/F02Q1EL8QUA/2.unitypackage)  
 # SPRINT 3
 ## Sprint Notları:
